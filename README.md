@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benyodiamond
+- 👋 Hi, I’m Bünyamin Elmas
 - 👀 I’m interested in  web development
 - 🌱 I’m currently learning js and node.js
 - 💞️ I’m looking to collaborate on web
